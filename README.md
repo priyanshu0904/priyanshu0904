@@ -94,17 +94,20 @@ I have a strong interest in **programming, Data Structures & Algorithms, UI/UX, 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=priyanshu0904&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=priyanshu0904&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu0904&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=priyanshu0904&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=priyanshu0904&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=priyanshu0904&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
