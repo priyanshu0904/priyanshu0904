@@ -102,12 +102,13 @@ I have a strong interest in **programming, Data Structures & Algorithms, UI/UX, 
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=priyanshu0904&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
-</p>
-
   <img
     src="https://streak-stats.demolab.com/?user=priyanshu0904&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
+</p>
+
+  
 
 
 ---
