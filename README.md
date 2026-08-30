@@ -104,12 +104,11 @@ I have a strong interest in **programming, Data Structures & Algorithms, UI/UX, 
   />
 </p>
 
-<p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=priyanshu0904&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
-</p>
+
 
 ---
 
