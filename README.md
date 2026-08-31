@@ -86,7 +86,6 @@ Mindset:    Curiosity drives me. Building keeps me going.
 
 <img src="https://streak-stats.demolab.com/?user=priyanshu0904&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
-<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshu0904&theme=tokyonight" width="95%" alt="GitHub Contribution Profile"/>
 
