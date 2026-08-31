@@ -79,17 +79,17 @@ Mindset:    Curiosity drives me. Building keeps me going.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshu0904&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=21600" height="180" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshu0904&theme=tokyonight" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu0904&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600" height="180" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=priyanshu0904&theme=tokyonight&hide_border=true&cache=20260831" height="180" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshu0904&theme=tokyonight" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu0904&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com/?user=priyanshu0904&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshu0904&theme=tokyonight" width="95%" alt="GitHub Contribution Profile"/>
 
 </div>
 
@@ -97,7 +97,7 @@ Mindset:    Curiosity drives me. Building keeps me going.
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshu0904/priyanshu0904/output/github-snake-dark.svg">
@@ -105,7 +105,7 @@ Mindset:    Curiosity drives me. Building keeps me going.
   <img src="https://raw.githubusercontent.com/priyanshu0904/priyanshu0904/output/github-snake-dark.svg" alt="GitHub Contribution Snake">
 </picture>
 
-</p>
+</div>
 
 ---
 
@@ -114,16 +114,12 @@ Mindset:    Curiosity drives me. Building keeps me going.
 <div align="center">
 
 <a href="https://github.com/priyanshu0904">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshu0904&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true" alt="Featured Project 1"/>
-</a>
-
-<a href="https://github.com/priyanshu0904">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshu0904&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true" alt="Featured Project 2"/>
+<img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View My Repositories"/>
 </a>
 
 </div>
 
-> Replace `YOUR_REPOSITORY_1` and `YOUR_REPOSITORY_2` with your actual repository names.
+> Add your best projects here once you decide which repositories you want to highlight.
 
 ---
 
