@@ -111,13 +111,22 @@ Mindset:    Curiosity drives me. Building keeps me going.
 
 <div align="center">
 
-<a href="https://github.com/priyanshu0904">
-<img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View My Repositories"/>
+<a href="https://github.com/priyanshu0904/PathLyft">
+  <img src="https://img.shields.io/badge/PathLyft%20-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project 1"/>
+</a>
+
+<a href="https://github.com/priyanshu0904/TripTuner">
+  <img src="https://img.shields.io/badge/TripTuner%20-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project 2"/>
 </a>
 
 </div>
+<div align="center">
 
-> Add your best projects here once you decide which repositories you want to highlight.
+<a href="https://github.com/priyanshu0904?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+</a>
+
+</div>
 
 ---
 
