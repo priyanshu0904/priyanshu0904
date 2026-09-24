@@ -10,10 +10,6 @@
 <img src="https://img.shields.io/github/followers/priyanshu0904?style=for-the-badge&logo=github&label=Followers&color=36BCF7&logoColor=white" alt="GitHub Followers"/>
 </a>
 
-<a href="https://github.com/priyanshu0904">
-<img src="https://komarev.com/ghpvc/?username=priyanshu0904&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="Profile Views"/>
-</a>
-
 <br/><br/>
 
 <a href="https://github.com/priyanshu0904">
