@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:181717&height=200&section=header&text=Priyanshu%20Raj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=16" width="100%" alt="Priyanshu Raj"/>
 
