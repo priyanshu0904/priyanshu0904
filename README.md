@@ -63,8 +63,6 @@ Mindset:    Curiosity drives me. Building keeps me going.
 
 ### Networking
 
-<br/>
-
 <img src="https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Certified"/>
 
 </div>
